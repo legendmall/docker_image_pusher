@@ -1,1 +1,2 @@
-1panel/openresty:1.21.4.3-3-3-focal
+apache/skywalking-oap-server:9.2.0
+apache/skywalking-ui:9.2.0
