@@ -1,1 +1,1 @@
-eipwork/kuboard-spray:latest-amd64
+eipwork/kuboard:v3
