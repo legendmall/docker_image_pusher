@@ -1,1 +1,1 @@
-eipwork/kuboard:v3
+elasticsearch:7.14.0
