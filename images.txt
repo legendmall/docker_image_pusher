@@ -1,7 +1,2 @@
-certbot/certbot:latest
-semitechnologies/weaviate:1.19.0
-langgenius/dify-api:0.8.0
-langgenius/dify-web:0.8.0
-postgres:15-alpine
-langgenius/dify-sandbox:0.2.7
-ubuntu/squid:latest
+node:20-slim
+golang:1.19
