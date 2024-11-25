@@ -1,1 +1,1 @@
-elasticsearch:8.8.1
+docker.elastic.co/beats/filebeat:8.2.0
