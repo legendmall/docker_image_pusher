@@ -1,1 +1,1 @@
-docker.elastic.co/logstash/logstash:8.2.0
+seataio/seata-server:1.7.0
