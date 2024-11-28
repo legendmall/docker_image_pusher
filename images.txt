@@ -1,1 +1,1 @@
-seataio/seata-server:1.7.0
+kibana:8.8.1
