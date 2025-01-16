@@ -1,1 +1,2 @@
-xuxueli/xxl-job-admin:2.4.0
+nacos/nacos-server:v2.4.3
+nacos/nacos-server:v2.2.0
