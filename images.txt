@@ -1,1 +1,1 @@
-apache/skywalking-ui:9.4.0
+apache/skywalking-oap-server:9.4.0
