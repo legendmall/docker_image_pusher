@@ -1,4 +1,3 @@
-radondb/chronus-operator:2.1.3
-radondb/chronus-metrics-operator:2.1.3
-radondb/clickhouse-server:21.1.3.32
-radondb/zookeeper:3.6.1
+clickhouse/clickhouse-server:23.8
+altinity/clickhouse-operator:0.24.5
+altinity/metrics-exporter:0.24.5
