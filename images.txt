@@ -1,3 +1,4 @@
-clickhouse/clickhouse-server:23.8
-altinity/clickhouse-operator:0.24.5
-altinity/metrics-exporter:0.24.5
+starrocks/fe-ubuntu:3.3.10
+starrocks/cn-ubuntu:3.3.10
+starrocks/be-ubuntu:3.3.10
+starrocks/operator:v1.10.0
