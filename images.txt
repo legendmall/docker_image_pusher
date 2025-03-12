@@ -1,1 +1,1 @@
-dinkydocker/dinky-standalone-server:1.2-flink1.20
+mysql:8.0.17
