@@ -1,1 +1,1 @@
-redpandadata/console:v3.1.2
+metersphere/metersphere-ce-allinone:v3.6.5-lts
