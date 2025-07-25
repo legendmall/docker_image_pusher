@@ -1,1 +1,1 @@
-bitnami/kafka:4.0.0
+redpandadata/console:v3.1.2
