@@ -1,1 +1,1 @@
-metersphere/metersphere-ce-allinone:v3.6.5-lts
+1panel/maxkb:v2.0.1
