@@ -1,1 +1,1 @@
-bitnami/mongodb:8.0.13
+bitnami/mongodb:6.0.13
