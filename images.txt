@@ -1,1 +1,1 @@
-bitnami/mongodb:6.0.13
+1panel/cordys-crm:v1.1.9
