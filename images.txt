@@ -1,1 +1,1 @@
-grafana/loki-docker-driver:latest
+grafana/loki-docker-driver:3.0.0
