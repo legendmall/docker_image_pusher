@@ -1,3 +1,1 @@
 grafana/loki:6.16.0
-grafana/promtail:6.16.0
-grafana/grafana:11.4.0
