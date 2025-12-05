@@ -1,1 +1,1 @@
-grafana/loki-docker-driver:3.0.0
+grafana/promtail:3.0.0
