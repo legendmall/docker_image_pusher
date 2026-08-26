@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre
+redis:7
