@@ -1,1 +1,1 @@
-node:22-alpine
+ghcr.io/umami-software/umami:3.4.0
