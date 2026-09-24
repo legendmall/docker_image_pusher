@@ -1,1 +1,1 @@
-redis:7
+bluenviron/mediamtx:1.21.1
