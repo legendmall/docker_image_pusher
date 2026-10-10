@@ -1,1 +1,1 @@
-ghcr.io/umami-software/umami:3.4.0
+nacos/nacos-server:v2.2.3
