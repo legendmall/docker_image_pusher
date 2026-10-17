@@ -1,1 +1,1 @@
-docker.io/library/aihot-app:latest
+ghcr.io/headlamp-k8s/headlamp:v0.46.0
