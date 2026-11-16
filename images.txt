@@ -1,1 +1,1 @@
-ghcr.io/headlamp-k8s/headlamp:v0.46.0
+apache/activemq-artemis:2.44.0
