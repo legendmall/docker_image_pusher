@@ -1,1 +1,1 @@
-apache/activemq-artemis:2.44.0
+eclipse-temurin:25-jdk-alpine
